@@ -1,0 +1,25 @@
+Gear Icon
+
+<img src="https://img.icons8.com/bubbles/50/000000/gears.png"/>
+
+Phone Icon
+
+<img src="https://img.icons8.com/bubbles/50/000000/phone.png"/>
+
+Email Icon
+<img src="https://img.icons8.com/bubbles/50/000000/email.png"/>
+
+Map Icon
+<img src="https://img.icons8.com/bubbles/50/000000/map-marker.png"/>
+
+Facebook Icon
+<img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png"/>
+
+Instagram Icon
+<img src="https://img.icons8.com/bubbles/50/000000/instagram.png"/>
+
+Twitter Icon
+<img src="https://img.icons8.com/bubbles/50/000000/twitter.png"/>
+
+Github Icon
+<img src="https://img.icons8.com/bubbles/50/000000/github.png"/>
